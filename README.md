@@ -7,7 +7,7 @@ Deploy dengan constructor parameters berikut:
 # shares	1000
 # name	"Pat"
 # salary	50000
-# idNumber112358132134
+# idNumber 112358132134
 
 >>>Submit Contract:
 https://docs.base.org/learn/storage/storage-exercise
